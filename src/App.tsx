@@ -15,7 +15,7 @@ import { CardBody } from "./components/CardBody";
 
 const serverResponse = {
   image:
-    "johnnystorm19/RA_Composition_task-1/src/assets/a-painting-of-a-mountain-lake-with-a-mountain-in-the-background.jpg",
+    "https://github.com/JohnnyStorm19/RA_Composition_task-1/blob/main/src/assets/a-painting-of-a-mountain-lake-with-a-mountain-in-the-background.jpg?raw=true",
   title: "Testing card title",
   description:
     "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsum quaerat ea amet, harum veniam facere accusantium molestiae ex, quas nihil corrupti optio magnam eos ipsa! Ut iste labore esse! Esse? Soluta exercitationem ut recusandae at nostrum provident cupiditate quidem perferendis, vero, veniam nemo cumque et rem distinctio rerum fugit? In tempore veritatis odit dignissimos eum quod, magnam velit magni assumenda!",
